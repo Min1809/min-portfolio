@@ -267,7 +267,7 @@ const Index = () => {
             </div>
           </div>
 
-          <div className="absolute bottom-10 left-[48%] -translate-x-1/2 animate-bounce">
+          <div className="absolute bottom-10 left-[49%] -translate-x-1/2 animate-bounce">
             <ChevronDown className="text-muted-foreground" size={32} />
           </div>
         </div>
