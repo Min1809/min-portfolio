@@ -173,7 +173,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <a href="#home" className="font-mono text-xl font-bold text-foreground">
-              <span className="text-accent">&lt;</span>dev<span className="text-accent">/&gt;</span>
+              <span className="text-accent">&lt;</span>min.dev<span className="text-accent">/&gt;</span>
             </a>
 
             {/* Desktop Navigation */}
